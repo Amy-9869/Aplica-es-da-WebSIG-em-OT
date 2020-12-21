@@ -26,6 +26,7 @@
         <script src="geojson\juntas.geojson"></script>
         <style>
             #mapDIV{
+                position: absolute;
                 margin-left: 65px;
                 margin-top: 150px;
                 height: 750px;
@@ -34,20 +35,32 @@
             }
 
             #mapDIV1{
+                position: absolute;
                 margin-left: 65px;
-                margin-top: 150px;
+                margin-top: 1650px;
                 height: 750px;
                 width: 90%;
                 border: solid 1px black;
             }
 
             #mapDIV2{
+                position: absolute;
                 margin-left: 65px;
-                margin-top: 150px;
+                margin-top: 2525px;
                 height: 580px;
                 width: 90%;
                 border: solid 1px black;
             }
+
+            #mapDIV3{
+                position: absolute;
+                margin-left: 65px;
+                margin-top: 950px;
+                height: 580px;
+                width: 90%;
+                border: solid 1px black;
+            }
+
         </style>
     </head>
 
@@ -70,6 +83,8 @@
     <body>
         <h1 id="t1">Ocupação do solo (COS2018) no município de Arouca</h1>
         <div id='mapDIV'></div>
+        <div id='mapDIV3'><iframe width="1135" height="580" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
+        src="https://arcg.is/1Cr8ye0"></iframe></div>
         <h1 id="t2">Suscetibilidade aos incêndios rurais no município de Arouca</h1>
         <div id='mapDIV1'></div>
         <h1 id="t3">"Grande incêndio" de Arouca 2016</h1>

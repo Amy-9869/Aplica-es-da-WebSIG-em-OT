@@ -81,7 +81,7 @@ body {
     color: grey;
     position: absolute;
     left: 285px;
-    top:1200px;
+    top:1775px;
   }
 
   #t3{
@@ -89,7 +89,7 @@ body {
     color: grey;
     position: absolute;
     left: 430px;
-    top:2115px;
+    top:2650px;
   }
 
 #Angela{
@@ -260,7 +260,7 @@ body {
 
 footer {
   position: absolute;
-  top: 2800px;
+  top: 3400px;
   right: 20px;
   padding-bottom: 20px;
   font-size: 10px;
