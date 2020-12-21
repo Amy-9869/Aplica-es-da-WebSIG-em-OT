@@ -1,2 +1,2 @@
-# Aplica-es-da-WebSIG-em-OT
+# Aplicações da WebSIG em OT
 Projeto Final
